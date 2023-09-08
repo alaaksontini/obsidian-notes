@@ -1,0 +1,289 @@
+{
+  "main": {
+    "id": "148a464ca355ba3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc4f06d07599cfc7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d188025939fd120d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sowbeez/Social_APIs.md.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bffde9d649614810",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sowbeez/Tiktok.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8d3af57f271e6e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sowbeez/Instagram.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea78bb07a3dbbd18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sowbeez/Facebook.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "181824ebbb0ff3e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sowbeez/Facebook Entities/Feed.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5cbca0691ac3740",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sowbeez/Facebook Entities/Post.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "811e060872c0ce67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sowbeez/Facebook Entities/insights.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71ce8e8e21e11c6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sowbeez/Facebook Entities/Feed.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "877b125b82f9f616",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sowbeez/Facebook.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eec79a63937e52ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reactions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a23873aefab65f15",
+    "type": "split",
+    "children": [
+      {
+        "id": "92023373b5131bd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e2d649a7fd10996",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea3567fd78d2026a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "17619f0705216e87",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "560773de5a789f0b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b8fa02615095bc01",
+    "type": "split",
+    "children": [
+      {
+        "id": "ced0d5c68b8b3816",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b85664be00102ea3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sowbeez/Facebook.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "faf7e7fb1e744124",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sowbeez/Facebook.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b53d25511ca26042",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "204afc33e77e5d87",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sowbeez/Facebook.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "877b125b82f9f616",
+  "lastOpenFiles": [
+    "Sowbeez/Facebook Entities/Feed.md",
+    "Sowbeez/Facebook Entities/insights.md",
+    "Sowbeez/Social_APIs.md.md",
+    "Sowbeez/Instagram.md",
+    "comments.md",
+    "InsightResult.md",
+    "Sowbeez/Facebook Entities/Post.md",
+    "reactions.md",
+    "Sowbeez/Facebook.md",
+    "Sowbeez/Facebook Entities",
+    "Sowbeez/Tiktok.md",
+    "Resume.md",
+    "Sowbeez",
+    "Resume content.md",
+    "Kidlee/Plan d'action partage marketplace public.md",
+    "Kidlee",
+    "Project Management Notes/What is Agile.md",
+    "Project Management Notes/Agile principales.md",
+    "Project Management Notes",
+    "Hello testing functionnalities.md",
+    "Hello World.md"
+  ]
+}
